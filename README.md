@@ -1,2 +1,2 @@
-# RoomDatabase
-Room Database Demo
+# RoomDemo
+Sample application using Room Persistence Library
